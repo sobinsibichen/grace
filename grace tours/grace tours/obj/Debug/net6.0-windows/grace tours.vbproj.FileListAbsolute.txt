@@ -1,0 +1,39 @@
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\grace tours.exe
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\grace tours.deps.json
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\grace tours.runtimeconfig.json
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\grace tours.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\grace tours.pdb
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.vbproj.AssemblyReference.cache
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.vbproj.ResolveComReference.cache
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace_tours.Form1.resources
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace_tours.Form2.resources
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace_tours.Form3.resources
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace_tours.Form4.resources
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace_tours.Form5.resources
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace_tours.Resources.resources
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.vbproj.GenerateResource.cache
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.GeneratedMSBuildEditorConfig.editorconfig
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.AssemblyInfoInputs.cache
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.AssemblyInfo.vb
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.vbproj.CoreCompileInputs.cache
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.dll
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\refint\grace tours.dll
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.pdb
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.genruntimeconfig.cache
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\ref\grace tours.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\sample projects\grace tours\grace tours\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\sample projects\grace tours\grace tours\obj\Debug\net6.0-windows\grace tours.vbproj.CopyComplete
